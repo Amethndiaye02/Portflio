@@ -1,0 +1,5 @@
+button{color: blue;font-size: 30px;border-radius: 25px;margin-right: 25px;}
+img{height: 200px ;width: 200px; border-radius: 100px;position: relative;left: 530px;}
+b h1{color: antiquewhite;text-align: center;text-shadow: 10px 10px 10px blueviolet;}
+body{background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(portflio.jpg); background-size: cover;}
+i h1{color: antiquewhite;text-align: center;text-shadow: 10px 10px 10px blueviolet; }
